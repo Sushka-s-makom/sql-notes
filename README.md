@@ -7,3 +7,11 @@
 
 ```bash
 docker compose up -d
+
+## Подключение (DBeaver)
+
+- host: localhost
+- port: 15432
+- db: appdb
+- user: app
+- password: app
