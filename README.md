@@ -15,3 +15,11 @@ docker compose up -d
 - db: appdb
 - user: app
 - password: app
+
+
+## Пройденные темы
+- основы sql: select / insert / update / delete
+- транзакции: begin / commit / rollback
+- агрегаты: group by / having
+- joins: inner / left
+- индексы и explain
